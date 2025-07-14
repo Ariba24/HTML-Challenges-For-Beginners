@@ -13,10 +13,14 @@ This repository contains Beginner HTML Challenges & a Wiki that has complete tut
  <li><a href="https://github.com/LearnEarn-Fun/HTML-Challenges-For-Beginners/tree/main/Fun%20with%20Lists">Fun with Lists</a></li>
  <li><a href="https://github.com/LearnEarn-Fun/HTML-Challenges-For-Beginners/tree/main/Fun%20with%20links">Fun with Links</a></li>
 </ol>
-
 ## Want to Contribute to this repository?
 
 Head over to <a href="https://github.com/LearnEarn-Fun/HTML-Challenges-For-Beginners/blob/main/.github/Contributing.md">Contributing Guidelines</a> to know more!
+
+### Contributors
+
+- [Ariba Arzi](https://github.com/Ariba24)
+
 
 ## Intermediate & Advanced HTML Challenges:
 
